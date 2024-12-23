@@ -15,7 +15,7 @@ disqusShortname = ""
     footer          = ""
     googleSearch    = "google-cse-key"
     googleAnalytics = "GTM-M574LS5M"      # Google Analytics v4
-    adsense         = "adsense-key"
+    adsense         = "ca-pub-4458132024653031"
     math            = false   # best to enable this in the front matter of a page
     mermaid         = false   # best to enable this in the front matter of a page
 
